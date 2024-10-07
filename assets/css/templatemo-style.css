@@ -26,6 +26,17 @@ body {
 
 body {
     overflow-x: hidden;
+
+}
+
+html,
+body
+{
+    background: url(../images/page-bg.png) center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 input,

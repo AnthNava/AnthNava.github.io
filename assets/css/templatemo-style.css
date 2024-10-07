@@ -13,7 +13,7 @@ body {
 }
 
 #page-wraper {
-    background: url(../images/page-bg.jpg) center center fixed;
+    background: url(../images/page-bg.png) center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -40,7 +40,7 @@ a:hover {
 }
 
 p {
-    font-size: 16px;
+    font-size: 20px;
     line-height: 24px;
     color: #fff;
 }
@@ -313,7 +313,7 @@ html {
 
 .section-heading span {
     margin-top: 5px;
-    font-size: 16px;
+    font-size: 20px;
     color: #fff;
     letter-spacing: 0.5px;
 }
@@ -494,6 +494,7 @@ section.my-work .section-heading {
 
 .isotope-toolbar input[type="radio"] {
     display: none;
+
 }
 
 .isotope-toolbar span {
@@ -501,7 +502,7 @@ section.my-work .section-heading {
     display: inline-block;
     margin-right: 15px;
     padding-bottom: 3px;
-    font-size: 30px;
+    font-size: 40px;
     font-weight: 700;
     border-bottom: 2px solid transparent;
     transform: ease-in-out 0.5s;
@@ -804,3 +805,4 @@ section.contact-me {
         margin-bottom: 20px;
     }
 }
+
